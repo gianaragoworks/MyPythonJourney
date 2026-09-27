@@ -2,4 +2,4 @@
 
 fruit = ["apple", 19, "orange", 27, "banana"]
 print(fruit.index("apple")) # print the index of apple
-print(fruit.count(19))#print the index of numbers
+print(fruit.count(19))#print the number of 19 in the list
